@@ -1,0 +1,10 @@
+:root{
+    --branco-principal.#FFFFFF;
+    --cinza-secundario.#cococo;
+    --botao-azul:#167bF7;
+    --cor-de-fundo:#00030CI
+}
+*{margin:0;
+padding:0
+}
+.cointainer-principal{background-image:urb[´background.png´]
